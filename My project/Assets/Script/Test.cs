@@ -18,17 +18,17 @@ public class Test : MonoBehaviour
          Txt_Text.text = NextText2;
     }
 }
-    private string name = "김지원";
-    private int age = 27;
-    private string mbti = "ISTP";
-    private int height = 168;
-    private int weight = 75;
-    private string bloodType = "A형";
-    private string favoriteFood = "돈까스";
-    private string hobby = "게임";
-    private string favoriteColor = "노란색";
-    private string favoriteGame = "메이플스토리";
-    private string favoriteMovie = "마블 영화";
+    //private string name = "김지원";
+    //private int age = 27;
+    //private string mbti = "ISTP";
+    //private int height = 168;
+    //private int weight = 75;
+    //private string bloodType = "A형";
+    //private string favoriteFood = "돈까스";
+    //private string hobby = "게임";
+    //private string favoriteColor = "노란색";
+    //private string favoriteGame = "메이플스토리";
+    //private string favoriteMovie = "마블 영화";
 
 //void Start()
 //{
