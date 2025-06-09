@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 60a6ffd9292930e4c969c3cce4bd3ec2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - printStack: {instanceID: 0}
+  - singleResultImage: {instanceID: 0}
+  - dia: {fileID: 21300000, guid: cba9a2b65ba0d354992b84501ea20e38, type: 3}
+  - gold: {fileID: 21300000, guid: 1546d4a9f8e373d4a8a16fd9ee09e88b, type: 3}
+  - silver: {fileID: 21300000, guid: b8b7bed47be3529499b23a768ead54d4, type: 3}
+  - bronze: {fileID: 21300000, guid: 7fc2d5027f3f9c949b6c52c404f7606a, type: 3}
+  - iron: {fileID: 21300000, guid: 8c04a7d4a6d0554418920640e22667b3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
